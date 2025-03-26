@@ -1,12 +1,6 @@
 # Информация о наборе данных
-
-## Авторы датасета
-Valerie Carrard, Céline Bourquin, Sylvie Berney, Katja Schlegel, Jacques Gaume, Pierre-Alexandre Bart, Martin Preisig, Marianne Schmid Mast & Alexandre Berney 
-
-Ссылка на оригинал датасета: https://zenodo.org/records/5702895#.Y8OraNJBwUE 
-
-### Для цитирования
-Carrard, V., Bourquin, C., Berney, S., Schlegel, K., Gaume, J., Bart, P.-A., Preisig, M., Schmid Mast, M., & Berney, A. (2022). Dataset for the paper "The relationship between medical students' empathy, mental health, and burnout: A cross-sectional study" published in Medical Teacher (2022) [Data set]. Zenodo. doi: 10.5281/zenodo.5702895
+## Ссылка для скачивания
+https://github.com/ds-book/dataset-msemhb/blob/main/MS-EMHB.csv
 
 ## Версия датасета
 
@@ -36,3 +30,11 @@ Carrard, V., Bourquin, C., Berney, S., Schlegel, K., Gaume, J., Bart, P.-A., Pre
 - mbi_ex — Количество баллов по шкале MBI «Эмоциональное истощение» (числовой)
 - mbi_cy — Количество баллов по шкале MBI «Деперсонализация» (числовой)
 - mbi_ea — Количество баллов по шкале MBI «Редукция профессиональных достижений» (числовой)
+
+## Авторы датасета
+Valerie Carrard, Céline Bourquin, Sylvie Berney, Katja Schlegel, Jacques Gaume, Pierre-Alexandre Bart, Martin Preisig, Marianne Schmid Mast & Alexandre Berney 
+
+Ссылка на оригинал датасета: https://zenodo.org/records/5702895#.Y8OraNJBwUE 
+
+### Для цитирования
+Carrard, V., Bourquin, C., Berney, S., Schlegel, K., Gaume, J., Bart, P.-A., Preisig, M., Schmid Mast, M., & Berney, A. (2022). Dataset for the paper "The relationship between medical students' empathy, mental health, and burnout: A cross-sectional study" published in Medical Teacher (2022) [Data set]. Zenodo. doi: 10.5281/zenodo.5702895
